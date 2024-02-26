@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/karim-moftah/swaggerUI-XSS/main/swagger-xss.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/karim-moftah/swaggerUI-XSS/main/swagger-xss.yaml",
+            "name": "SwaggerUI XSS"
+        }
+    ]
+}
